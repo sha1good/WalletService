@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar target/WalletService.jar  -Dserver.port=$PORT $JAR_OPTS
